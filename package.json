@@ -1,0 +1,21 @@
+{
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "description": "This repository contains solutions to problems from LeetCode and Codeforces using **TypeScript**.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
